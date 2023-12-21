@@ -1,0 +1,5 @@
+{
+    "sketch": "mega_12800.ino",
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp"
+}
